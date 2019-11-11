@@ -1,10 +1,11 @@
 # MACHINELEANING
 
-##Required Software
+## Required Software
 
-anaconda
+anaconda from [Here](https://www.anaconda.com/distribution/#download-section)
 
-##Install dependencies
+## Install dependencies
+
 ``` pip install quandl ```
 
 open this in jupyter note book
